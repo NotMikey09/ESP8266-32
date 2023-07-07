@@ -10,8 +10,7 @@
 
 4. Familiar with Basic Audrino Libraries And Functions **digitalRead, digitalWrite, AnalogRead, AnalogWrite, Serial.begin(), Serial.print()**.
 
-## List of Content/Experiments.
-
+## List of Content/Experiments
 
 1. Study [Arduino IDE](https://www.arduino.cc/en/software) and [PlatformIO](https://platformio.org/) [IDE](https://docs.platformio.org/en/latest/home/index.html#platformio-ide) implement led blink program, define program to toggle status of led with function and observe changes in Arduino and PlatformIO. Run basic examples from Arduino IDE.
 
@@ -42,4 +41,3 @@
 14. Explain websockets and using websockets display/update live status of LED/sensor readings on webpage.
 
 15. Create a mesh network of IoT (ESP) devices using [ESP-NOW](https://www.instructables.com/ESP32-With-ESP-Now-Protocol/) protocol.
-
